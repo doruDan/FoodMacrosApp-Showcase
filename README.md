@@ -25,7 +25,7 @@ Controlerul MVC care gestionează fluxul de date între logica de business și i
 * **Limbaj:** C#
 * **Arhitectura:** Model-View-Controller (MVC) - pentru o separare clară a logicii de business de interfața utilizatorului.
 * **Sursa datelor:** Integrare cu API-ul **USDA FoodData Central** pentru acuratețe științifică.
-* **Unelte:** Visual Studio 2022, .NET Core 8.0, JSON Deserialization.
+* **Unelte:** Visual Studio 2022, .NET Core 10.0, JSON Deserialization.
 
 ## 📈 Plan de Dezvoltare
 Proiectul este într-o fază activă de expansiune. Următoarele module planificate includ:
